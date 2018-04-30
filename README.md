@@ -7,3 +7,5 @@ It contains activities to:
 2. display a contact once it's clicked from the main activity (#1);
 3. create a new contact to be added to the database. New contacts must contain at least a name/surname and at least one of
 the following: phone number, mobile number, address, email
+
+The APP is not finished yet but it provides a bug-free basic experience
